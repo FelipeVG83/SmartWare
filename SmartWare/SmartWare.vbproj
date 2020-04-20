@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4B256E90-D336-489C-926F-D8E992502D79}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SmartWare.My.MyApplication</StartupObject>
+    <RootNamespace>SmartWare</RootNamespace>
+    <AssemblyName>SmartWare</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SmartWare.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SmartWare.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo icone.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\Connector NET 6.7.4\Assemblies\v4.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cadastro_Funcionario.Designer.vb">
+      <DependentUpon>Cadastro_Funcionario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro_Funcionario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro_Cliente.Designer.vb">
+      <DependentUpon>Cadastro_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro_Produto.Designer.vb">
+      <DependentUpon>Cadastro_Produto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro_Produto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comprar.Designer.vb">
+      <DependentUpon>Comprar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comprar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracoes.Designer.vb">
+      <DependentUpon>Configuracoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Confirmar_Cliente.Designer.vb">
+      <DependentUpon>Confirmar_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Confirmar_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localizar_Cliente.Designer.vb">
+      <DependentUpon>Localizar_Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Localizar_Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localizar_Clientes.Designer.vb">
+      <DependentUpon>Localizar_Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Localizar_Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localizar_Compra2.Designer.vb">
+      <DependentUpon>Localizar_Compra2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Localizar_Compra2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localizar_Compras.Designer.vb">
+      <DependentUpon>Localizar_Compras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Localizar_Compras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localizar_Funcionario.Designer.vb">
+      <DependentUpon>Localizar_Funcionario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Localizar_Funcionario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localizar_Funcionarios.Designer.vb">
+      <DependentUpon>Localizar_Funcionarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Localizar_Funcionarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localizar_Produto.Designer.vb">
+      <DependentUpon>Localizar_Produto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Localizar_Produto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Localizar_Produtos.Designer.vb">
+      <DependentUpon>Localizar_Produtos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Localizar_Produtos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.vb">
+      <DependentUpon>menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Orcamento.Designer.vb">
+      <DependentUpon>Orcamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Orcamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orcamento_VB.Designer.vb">
+      <DependentUpon>Orcamento_VB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Orcamento_VB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Cadastro_Funcionario.resx">
+      <DependentUpon>Cadastro_Funcionario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro_Cliente.resx">
+      <DependentUpon>Cadastro_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro_Produto.resx">
+      <DependentUpon>Cadastro_Produto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comprar.resx">
+      <DependentUpon>Comprar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracoes.resx">
+      <DependentUpon>Configuracoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Confirmar_Cliente.resx">
+      <DependentUpon>Confirmar_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localizar_Cliente.resx">
+      <DependentUpon>Localizar_Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localizar_Clientes.resx">
+      <DependentUpon>Localizar_Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localizar_Compra2.resx">
+      <DependentUpon>Localizar_Compra2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localizar_Compras.resx">
+      <DependentUpon>Localizar_Compras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localizar_Funcionario.resx">
+      <DependentUpon>Localizar_Funcionario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localizar_Funcionarios.resx">
+      <DependentUpon>Localizar_Funcionarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localizar_Produto.resx">
+      <DependentUpon>Localizar_Produto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Localizar_Produtos.resx">
+      <DependentUpon>Localizar_Produtos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orcamento.resx">
+      <DependentUpon>Orcamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orcamento_VB.resx">
+      <DependentUpon>Orcamento_VB.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Visualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo icone.ico" />
+    <None Include="Resources\form.png" />
+    <None Include="Resources\Button.png" />
+    <None Include="Resources\oi.png" />
+    <None Include="Resources\6_all_BG.jpg" />
+    <None Include="Resources\TextBox.png" />
+    <None Include="Resources\logo grande quadrado.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

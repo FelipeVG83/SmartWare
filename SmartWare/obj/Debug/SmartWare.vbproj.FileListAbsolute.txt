@@ -1,0 +1,814 @@
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\obj\Debug\SmartWare.Cadastro.resources
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\SmartWare\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Cadastro.resources
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare\SmartWare\bin\Debug\SmartWare.xml
+E:\VbSmartWare\SmartWare\bin\Debug\SmartWare.exe.config
+E:\VbSmartWare\SmartWare\obj\Debug\SmartWare.exe
+E:\VbSmartWare\SmartWare\obj\Debug\SmartWare.xml
+E:\VbSmartWare\SmartWare\obj\Debug\SmartWare.pdb
+E:\VbSmartWare\SmartWare\obj\Debug\SmartWare.Cadastro.resources
+E:\VbSmartWare\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+E:\VbSmartWare\SmartWare\obj\Debug\SmartWare.Cep.resources
+E:\VbSmartWare\SmartWare\obj\Debug\SmartWare.Form1.resources
+E:\VbSmartWare\SmartWare\obj\Debug\SmartWare.Menu2.resources
+E:\VbSmartWare\SmartWare\obj\Debug\SmartWare.Resources.resources
+E:\VbSmartWare\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+E:\VbSmartWare\SmartWare\bin\Debug\SmartWare.exe
+E:\VbSmartWare\SmartWare\bin\Debug\SmartWare.pdb
+E:\VbSmartWare\SmartWare\bin\Debug\SmartWare.xml
+E:\VbSmartWare\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Cadastro.resources
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\rm12234\Desktop\VbSmartWare\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12373\Desktop\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12234\Desktop\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_3\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Felipe\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\rm12234\Desktop\VbSmartWare_24-09_5\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+E:\Projects SmartWare\VbSmartWare_24-09_6_AlteracoesAndre\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\rm12373\Desktop\VbSmartWare_01-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+E:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+G:\Projects SmartWare\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare_02-10\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\rm12373\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+G:\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_24-09_5\VbSmartWare_24-09\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Alterar_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Cadastro_Novo_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Compra.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\Felipe\Desktop\VbSmartWare\VbSmartWare_14-10\VbSmartWare_14-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Alterar_Produto.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Cadastro_Novo_Produto.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Compra.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\bin\Debug\MySql.Data.dll
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Alterar_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Cadastro_Novo_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Compra.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\Felipe\Desktop\VbSmartWare_16-10\VbSmartWare_16-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Alterar_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Cadastro_Novo_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Compra.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\Felipe\Desktop\VbSmartWare_17-10\VbSmartWare_17-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\felipe.gonzalez\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.pdb
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\bin\Debug\SmartWare.exe.config
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.exe
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.xml
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.pdb
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Alterar_Produto.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Cadastro_Novo_Produto.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Cep.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Compra.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\bin\Debug\SmartWare.exe
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\bin\Debug\SmartWare.pdb
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\bin\Debug\SmartWare.xml
+D:\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\bin\Debug\MySql.Data.dll
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Alterar_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Cadastro_Novo_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Compra.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\Felipe\Desktop\VbSmartWare_18-10\VbSmartWare_18-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Alterar_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Cadastro_Novo_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Compra.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\Felipe\Desktop\VbSmartWare_19-10\VbSmartWare_19-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+D:\VbSmartWare_20-10_2\SmartWare\bin\Debug\SmartWare.exe.config
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.exe
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.xml
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.pdb
+D:\VbSmartWare_20-10_2\SmartWare\bin\Debug\SmartWare.exe
+D:\VbSmartWare_20-10_2\SmartWare\bin\Debug\SmartWare.pdb
+D:\VbSmartWare_20-10_2\SmartWare\bin\Debug\SmartWare.xml
+D:\VbSmartWare_20-10_2\SmartWare\bin\Debug\MySql.Data.dll
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Alterar_Produto.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Cadastro_Novo_Produto.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Cep.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Compra.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Form1.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Menu2.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Resources.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+D:\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\bin\Debug\MySql.Data.dll
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Alterar_Produto.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Cadastro_Novo_Produto.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Compra.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\rm12373\Desktop\VbSmartWare_20-10_2\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.vbprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Alterar_Produto.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente_Juridico.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Novo_Produto.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Compra.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\Microsoft\Documents\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.vbprojResolveAssemblyReference.cache
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\bin\Debug\MySql.Data.dll
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.vbprojResolveAssemblyReference.cache
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\rm12234\Desktop\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+E:\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe.config
+E:\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.exe
+E:\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.xml
+E:\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\bin\Debug\MySql.Data.dll
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.vbprojResolveAssemblyReference.cache
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cep.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\rm12373\Desktop\é esse aqui o vb\ProjetoPronto\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+E:\_SmartWare\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe.config
+E:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.exe
+E:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.xml
+E:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.pdb
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe.config
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.exe
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.xml
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.pdb
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.exe
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.pdb
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\bin\Debug\SmartWare.xml
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.vbprojResolveAssemblyReference.cache
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Produto.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cep.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+H:\_SmartWare\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Cadastro_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Comprar.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Confirmar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_21-10\SmartWare\obj\Debug\SmartWare.Localizar_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_26-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare_26-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_26-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_26-10\SmartWare\obj\Debug\SmartWare.pdb
+D:\VbSmartWare_27-10\SmartWare\bin\Debug\SmartWare.exe.config
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.exe
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.xml
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.pdb
+D:\VbSmartWare_27-10\SmartWare\bin\Debug\SmartWare.exe
+D:\VbSmartWare_27-10\SmartWare\bin\Debug\SmartWare.pdb
+D:\VbSmartWare_27-10\SmartWare\bin\Debug\SmartWare.xml
+D:\VbSmartWare_27-10\SmartWare\bin\Debug\MySql.Data.dll
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.vbprojResolveAssemblyReference.cache
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Cadastro_Produto.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Comprar.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Confirmar_Cliente.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Localizar_Compra2.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Localizar_Compras.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Localizar_Produto.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+D:\VbSmartWare_27-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.vbprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Cadastro_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Comprar.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Confirmar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Compra2.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Compras.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\Felipe\Desktop\VbSmartWare_27-10-2\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
+D:\VbSmartWare_28-10\SmartWare\bin\Debug\SmartWare.exe.config
+D:\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.exe
+D:\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.xml
+D:\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.pdb
+H:\VbSmartWare_28-10\SmartWare\bin\Debug\SmartWare.exe.config
+H:\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.exe
+H:\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.xml
+H:\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\bin\Debug\SmartWare.exe.config
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\bin\Debug\SmartWare.exe
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\bin\Debug\SmartWare.pdb
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\bin\Debug\SmartWare.xml
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.vbprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Cadastro_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Cadastro_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Cadastro_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Comprar.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Configuracoes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Confirmar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Form1.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Cliente.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Clientes.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Compra2.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Compras.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionario.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Funcionarios.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Produto.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Localizar_Produtos.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Menu2.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Resources.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Orcamento.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.Orcamento_VB.resources
+C:\Users\Felipe\Desktop\VbSmartWare_28-10\SmartWare\obj\Debug\SmartWare.vbproj.GenerateResource.Cache
